@@ -1,6 +1,6 @@
 ### Hola 👋
 ¿Sabian que el agua moja?
-![file:///C:/Users/chyll/OneDrive/Escritorio/manface.jpg].jpg
+![file:///C:/Users/chyll/OneDrive/Escritorio/manface.jpg].
 - 🔭 Trabajando en IDK ._.
 - 🌱 Estudiando informatica con google y bachillerato
 - 📫 Encuentrame en Facebook, instagram (Francisco Garcilazo) 
