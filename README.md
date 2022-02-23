@@ -1,9 +1,6 @@
 ### Hola 👋
-
-**fgarcilazo16/fgarcilazo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ok?
-
-Here are some ideas to get you started:
-
+¿Sabian que el agua moja?
+![file:///C:/Users/chyll/OneDrive/Escritorio/manface.jpg].jpg
 - 🔭 Trabajando en IDK ._.
 - 🌱 Estudiando informatica con google y bachillerato
 - 📫 Encuentrame en Facebook, instagram (Francisco Garcilazo) 
