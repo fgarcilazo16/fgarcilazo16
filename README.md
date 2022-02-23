@@ -6,4 +6,4 @@
 - 📫 Encuentrame en Facebook, instagram (Francisco Garcilazo) 
 - 😄 Apodo: El chyllis
 - ⚡ Fun fact: OH NOOOO our table its brokeeen https://www.youtube.com/watch?v=FcZd305VI60
-Bueno pues Chao
+Bueno chao
